@@ -1,0 +1,217 @@
+{
+  "product": {
+    "ld": [
+      "\n  {\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"Organization\",\n    \"name\": \"Mind Body Designs\",\n    \n      \"logo\": \"https:\\/\\/wearmbd.com\\/cdn\\/shop\\/files\\/mind-body-designs-logo-no-background-no-est-2024_9647ece0-a3d0-4089-8e65-a8a99f051f0b.png?v=1791777255\\u0026width=500\",\n    \n    \"url\": \"https:\\/\\/wearmbd.com\"\n  }\n",
+      "\n  {\"@context\":\"http:\\/\\/schema.org\\/\",\"@id\":\"\\/products\\/never-give-up-trust-your-journey-inspirational-t-shirt#product\",\"@type\":\"ProductGroup\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Printify\"},\"category\":\"T-Shirts\",\"description\":\"A quiet reminder to keep moving forward. This relaxed-fit T-shirt features a warm, vintage-inspired landscape with a winding road and the words “Never Give Up — Trust Your Journey.” It speaks to dreamers, travelers, graduates, and anyone navigating a new chapter with patience and courage. The heavyweight garment-dyed cotton feels substantial yet comfortable, while the sof"
+    ],
+    "noAlt": [
+      "998828726364827627_2048.jpg?v=1792053712&width=1200",
+      "12145833590200357086_2048.jpg?v=1792789588&width=1200",
+      "12147087671253365958_2048.jpg?v=1792789449&width=1200",
+      "14492403239270824819_2048.jpg?v=1792787140&width=1200",
+      "Gildan_64000_Size_Chart.png?v=1791860430&width=1920",
+      "998828726364827627_2048.jpg?v=1792053712&width=500",
+      "13911876127020934717_2048.jpg?v=1792786274&width=500",
+      "5644182411501493359_2048.jpg?v=1792699792&width=500",
+      "16312605094979993398_2048.jpg?v=1792787020&width=500",
+      "2440573238772869792_2048.jpg?v=1792053382&width=500"
+    ],
+    "favicon": "https://wearmbd.com/cdn/shop/files/Golden_Lotus_Yoga_Emblem.png?crop=center&height=32&v=1791859299&width=32",
+    "reviewsWidget": false,
+    "sizeGuideTag": "<button type=\"button\" class=\"size-guide__trigger\" on:click=\"/showDialog\" aria-haspopup=\"dialog\" aria-controls=\"SizeGuideDialog-AWE9nOGhMVVdBWTZqS__variant_picker_R3rGDr-1\">\n    Size guide\n  </button>"
+  },
+  "sizeGuideText": [
+    "\n  \n    \n      \n  \n  \n\n\n      \n  \n\n\n    \n    \n      \n        \n  \n\n\n      \n      \n        \n            \n            \n\n              \n                \n\n                    Home\n                  \n                \n              \n              \n                \n\n                    Mind\n                  \n                \n              \n              \n                \n\n                    Body\n                  \n                \n              \n              \n                \n\n                    Spirit\n                  \n                \n              \n              \n                \n\n                    Women\n                  \n                \n              \n              \n                \n\n                    Seasonal\n                  \n                \n              \n              \n       ",
+    "",
+    "Size guide"
+  ],
+  "cart": {
+    "total": 3495,
+    "original": 3495,
+    "discounts": [],
+    "itemDisc": [],
+    "line": 3495
+  },
+  "cartText": "Cart\n1\n1\nCart total $34.95 USD\nProduct image\nProduct information\nQuantity\nProduct total\nNever Give Up Trust Your Journey Inspirational T-Shirt\nColor:\nBlack,  \nSize:\nS\nPrice\n$34.95\nDecrease quantity\nIncrease quantity\nRemove\n$34.95\nDiscount\nEstimated total\n$34.95 USD\nTaxes and shipping calculated at checkout.\nCheck out\nYou may also like\nView all\nChoose\n\nApparently We’re Trouble Together Funny Friendship T-Shirt\n\n$34.95\nChoose\n\nBe Kind Floral Graphic T-Shirt\n\n$34.95\nChoose\n\nBe Still and Know Psalm 46:10 Mountain Christian T-Shirt\n\n$34.95\nChoose\n\nBe the Sunshine Sunflower Inspirational T-Shirt\n\n$34.95",
+  "collections": {
+    "bmp-collection": [
+      "Never Give Up Trust Your Journey Inspirational T-Shirt",
+      "Lift Each Other Up Inspirational T-Shirt",
+      "Floral Skull T-Shirt",
+      "Renew Inspirational Gardening T-Shirt",
+      "On My Way Brighten Your Day Sun Character T-Shirt",
+      "Hey Sunshine Sun Graphic T-Shirt",
+      "Be the Sunshine Sunflower Inspirational T-Shirt",
+      "“Advocate. Support. Empower.” T-Shirt",
+      "Believe There Is Good in the World Inspirational T-Shirt",
+      "Mind Body Designs Meditation T-Shirt",
+      "Positive Vibes Only T-Shirt"
+    ],
+    "products-copy": [
+      "Lift Heavy Dream Big Inspirational Gym T-Shirt",
+      "Earn the Burn Gym Workout T-Shirt",
+      "Smile, Repeat Every Day Graphic T-Shirt",
+      "Speed Is a State of Mind Turtle Runner T-Shirt"
+    ],
+    "products-copy-copy": [
+      "Peace Love Books Graphic T-Shirt",
+      "With God All Things Are Possible Christian T-Shirt",
+      "Trust in the Lord Christian Faith T-Shirt",
+      "Peace Dove Floral T-Shirt",
+      "Laughs Memories Forever T-Shirt",
+      "Kindness Is Meant to Be Shared Bird T-Shirt",
+      "Read in Peace Skeleton Bookish T-Shirt",
+      "Peace Lion and Lamb Graphic T-Shirt",
+      "Faithful Christian T-Shirt with Arched Door and Botanical Design",
+      "Prayer Religious Graphic T-Shirt",
+      "The Shepherd Christian Faith T-Shirt",
+      "Faith Fish Christian T-Shirt",
+      "Be Still and Know Psalm 46:10 Mountain Christian T-Shirt",
+      "Built on Love Heart Graphic T-Shirt",
+      "Apparently We’re Trouble Together Funny Friendship T-Shirt",
+      "Be Kind Floral Graphic T-Shirt",
+      "Love, Laughter & Family T-Shirt",
+      "Cherish Every Moment Hourglass Botanical T-Shirt",
+      "Dog Pointer Illustration T-Shirt",
+      "Friendship Heart T-Shirt",
+      "One Friend Can Change Your Life T-Shirt",
+      "Heart Love Graphic T-Shirt",
+      "Hope Sunrise Unisex T-Shirt",
+      "Bloom Within Lotus Inspirational T-Shirt",
+      "Rooted in Love Tree of Life T-Shirt",
+      "Mind Body Design Lotus T-Shirt"
+    ],
+    "women": [
+      "Sugar Skull Day of the Dead Favorite Women's T-Shirt",
+      "Floral Ghost Día de los Muertos Women's T-Shirt",
+      "Positive Vibes Only T-Shirt Women"
+    ],
+    "women-1": [
+      "Positive Vibes Only T-Shirt Women",
+      "Sugar Skull Day of the Dead Favorite Women's T-Shirt",
+      "Floral Ghost Día de los Muertos Women's T-Shirt"
+    ],
+    "seasonal-copy": [
+      "Never Give Up Trust Your Journey Inspirational T-Shirt",
+      "Whimsical Yoga Skeletons T-Shirt",
+      "Lift Each Other Up Inspirational T-Shirt",
+      "Floral Skull T-Shirt",
+      "Peace Love Books Graphic T-Shirt",
+      "With God All Things Are Possible Christian T-Shirt",
+      "Trust in the Lord Christian Faith T-Shirt",
+      "Peace Dove Floral T-Shirt",
+      "Laughs Memories Forever T-Shirt",
+      "Kindness Is Meant to Be Shared Bird T-Shirt",
+      "Read in Peace Skeleton Bookish T-Shirt",
+      "Renew Inspirational Gardening T-Shirt",
+      "Peace Lion and Lamb Graphic T-Shirt",
+      "Faithful Christian T-Shirt with Arched Door and Botanical Design",
+      "Prayer Religious Graphic T-Shirt",
+      "The Shepherd Christian Faith T-Shirt",
+      "Faith Fish Christian T-Shirt",
+      "Be Still and Know Psalm 46:10 Mountain Christian T-Shirt",
+      "Built on Love Heart Graphic T-Shirt",
+      "Apparently We’re Trouble Together Funny Friendship T-Shirt",
+      "Lift Heavy Dream Big Inspirational Gym T-Shirt",
+      "Earn the Burn Gym Workout T-Shirt",
+      "Be Kind Floral Graphic T-Shirt",
+      "Love, Laughter & Family T-Shirt",
+      "Cherish Every Moment Hourglass Botanical T-Shirt",
+      "Dog Pointer Illustration T-Shirt",
+      "Friendship Heart T-Shirt",
+      "One Friend Can Change Your Life T-Shirt",
+      "Heart Love Graphic T-Shirt",
+      "Hope Sunrise Unisex T-Shirt",
+      "Bloom Within Lotus Inspirational T-Shirt",
+      "Rooted in Love Tree of Life T-Shirt",
+      "Smile, Repeat Every Day Graphic T-Shirt",
+      "Positive Vibes Only T-Shirt Women",
+      "Sugar Skull Day of the Dead Favorite Women's T-Shirt",
+      "Running Past Pumpkin Porches Halloween T-Shirt",
+      "Spooky Mummy Sneaker Halloween T-Shirt",
+      "Skull Medal Graphic T-Shirt",
+      "Coffin Retro Shoebox Graphic T-Shirt",
+      "Halloween Skeleton Runner T-Shirt",
+      "Vintage Halloween Witch Jogger T-Shirt",
+      "Black Cat Halloween T-Shirt",
+      "Don't Ghost Your Feelings Mental Health Awareness T-Shirt",
+      "It’s Okay To Feel Ghosts Halloween T-Shirt",
+      "Boo-lieve in Yourself Halloween Ghost T-Shirt",
+      "Dia de los Muertos Floral Sugar Skull T-Shirt",
+      "Floral Ghost Folk Art T-Shirt",
+      "Colorful Sugar Skull Dog Floral T-Shirt",
+      "Nine Day of the Dead Sugar Skull T-Shirt",
+      "“Día de los Muertos — Amor · Recuerdo · Familia.” T-Shirt",
+      "Read in Peace Skull Floral Book Lover T-Shirt",
+      "On My Way Brighten Your Day Sun Character T-Shirt",
+      "Hey Sunshine Sun Graphic T-Shirt",
+      "Be the Sunshine Sunflower Inspirational T-Shirt",
+      "“Advocate. Support. Empower.” T-Shirt",
+      "Believe There Is Good in the World Inspirational T-Shirt",
+      "No Pain No Brains Gym T-Shirt",
+      "Working on My Boo-Ty Halloween Ghost Workout T-Shirt",
+      "Day of the Dead Sugar Skull Floral Meditation T-Shirt",
+      "Well Shit Skeleton Balloon Funny Halloween T-Shirt",
+      "Speed Is a State of Mind Turtle Runner T-Shirt",
+      "Mind Body Designs Meditation T-Shirt",
+      "Namaste Bitches Witchy Yoga T-Shirt",
+      "Floral Ghost Día de los Muertos Women's T-Shirt",
+      "Positive Vibes Only T-Shirt",
+      "Mind Body Design Lotus T-Shirt"
+    ]
+  },
+  "policies": {
+    "shipping-policy": {
+      "status": 200,
+      "text": "Shipping policy\n\nFree Shipping\n\nFREE SHIPPING on US orders over $75!\n\n \n\nProcessing Time\n\nOrders are typically shipped within 7 to 14 days of placing your order.\n\n \n\nDelivery Times\n\nDomestic (US): 2 to 5 business days after shipment"
+    },
+    "refund-policy": {
+      "status": 200,
+      "text": "Refund policy\n\nWe want you to love your purchase. If something isn't right, we're here to help.\n\n \n\nReturns & Refunds\n\nWe offer refunds for:\n\nWrong items received\nDamaged or defective products\n\nAll refund requests must be submitted within 30 days of the purchase date. Please contact us at mindbodydesigns26@gmail.com if you believe you qualify.\n\nWe have a 30-day return policy, which means you have 30 days after receiving your item to request a return.\n\nTo be eligible for a return, your item must be in the same condition that you received it, unworn or unused, with tags, and in its original packaging. You’ll also need the receipt or proof of purchase.\n\nTo start a return, you can contact us at mindbodydesigns26@gmail.com.\n\nIf your return is accepted, we’ll send you a return shipping label, as well as instructions on how and where to send your package. Items sent back to us without first req"
+    },
+    "privacy-policy": {
+      "status": 200,
+      "text": "Privacy policy\n\nLast updated: October 7, 2026\n\nMind Body Designs operates this store and website, including all related information, content, features, tools, products and services, in order to provide you, the customer, with a curated shopping experience (the \"Services\"). Mind Body Designs is powered by Shopify, which enables us to provide the Services to you. This Privacy Policy describes how we collect, use, and disclose your personal information when you visit, use, or make a purchase or other transaction using the Services or otherwise communicate with us. If there is a conflict between our Terms of Service and this Privacy Policy, this Privacy Policy controls with respect to the collection, processing, and disclosure of your personal information.\n\nPlease read this Privacy Policy carefully. By using and accessing any of the Services, you acknowledge that you have read this Privacy P"
+    },
+    "terms-of-service": {
+      "status": 200,
+      "text": "Terms of service\n\nOVERVIEW\nWelcome to Mind Body Designs! The terms \"we\", \"us\" and \"our\" refer to Mind Body Designs. Mind Body Designs operates this store and website, including all related information, content, features, tools, products and services in order to provide you, the customer, with a curated shopping experience (the \"Services\"). Mind Body Designs is powered by Shopify, which enables us to provide the Services to you.\nThe below terms and conditions, together with any policies referenced herein (these \"Terms of Service\" or \"Terms\") describe your rights and responsibilities when you use the Services.\nPlease read these Terms of Service carefully, as they include important information about your legal rights and cover areas such as warranty disclaimers and limitations of liability.\nBy visiting, interacting with or using our Services, you agree to be bound by these Terms of Service "
+    }
+  },
+  "homeWeight": {
+    "requests": 408,
+    "totalKB": 874,
+    "big": [
+      {
+        "n": "Serene_Marigold_Meditation_Portrait_4f47cb3a-7b42-4110-8c09-9ae2a71ee0",
+        "kb": 159
+      },
+      {
+        "n": "5998259706686793230_2048.jpg?v=1792789250&width=832",
+        "kb": 88
+      },
+      {
+        "n": "17260536297969902811_2048.jpg?v=1792789326&width=832",
+        "kb": 88
+      },
+      {
+        "n": "4359953752418414132_2048.jpg?v=1792787596&width=832",
+        "kb": 87
+      },
+      {
+        "n": "12147087671253365958_2048.jpg?v=1792789449&width=832",
+        "kb": 86
+      }
+    ],
+    "dcl": 813,
+    "load": 2082,
+    "apps": [
+      "shop.app",
+      "chimpstatic.com",
+      "www.paypal.com",
+      "pay.google.com",
+      "mcjs.prd.a.intuit.com",
+      "www.gstatic.com"
+    ]
+  }
+}
