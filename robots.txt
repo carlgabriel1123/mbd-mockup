@@ -1,0 +1,3 @@
+# Mockup only. The real store is https://wearmbd.com
+User-agent: *
+Disallow: /
