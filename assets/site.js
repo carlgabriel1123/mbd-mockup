@@ -106,6 +106,11 @@ function openQV(id) {
 $('#qvAdd').addEventListener('click', () => qvSt.si < 0 ? needSize($('#qvAdd'), $('#qvPick')) : addLine(qvIt, qvSt.ci, qvSt.si, 1));
 document.addEventListener('click', e => { const b = e.target.closest('[data-qv]'); if (b) openQV(+b.dataset.qv); });
 
+/* ---------- mockup only: color theme switch ---------- */
+const setTheme = t => { document.documentElement.dataset.theme = t; try { localStorage.setItem('mbd_theme', t); } catch (e) {} $$('[data-theme-btn]').forEach(b => b.setAttribute('aria-pressed', b.dataset.themeBtn === t)); };
+$$('[data-theme-btn]').forEach(b => b.addEventListener('click', () => setTheme(b.dataset.themeBtn)));
+setTheme(document.documentElement.dataset.theme || 'terracotta');
+
 /* ---------- home ---------- */
 if ($('.trio')) {
   const H = window.MBD_HERO; let cur = 'mind', timer;

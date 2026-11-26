@@ -82,9 +82,10 @@ def head(title, desc, canon, og, root, ld, ogtype='website'):
 <meta property="og:url" content="{canon}">
 <meta property="og:image" content="{og}">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="theme-color" content="#1f2a24">
+<meta name="theme-color" content="#2f1e16">
 <link rel="icon" href="{STORE}/cdn/shop/files/Golden_Lotus_Yoga_Emblem.png?crop=center&height=32&width=32">
 {FONTS}
+<script>try{{var t=new URLSearchParams(location.search).get('theme')||localStorage.getItem('mbd_theme');document.documentElement.dataset.theme=t==='sage'?'sage':'terracotta'}}catch(e){{}}</script>
 <link rel="stylesheet" href="{root}assets/site.css">
 {''.join(f'<script type="application/ld+json">{json.dumps(x, ensure_ascii=False)}</script>' + chr(10) for x in ld)}</head>'''
 
@@ -122,7 +123,7 @@ def footer(root, home):
     <div class="legal"><span>© 2026 Mind Body Designs</span><span>Prices in USD. Ships within the United States.</span></div>
   </div>
 </footer>
-<div class="mock-pill">Design mockup for Cesar. Real shirts and prices from <a href="{STORE}">wearmbd.com</a></div>
+<div class="mock-pill">Design mockup for Cesar. Real shirts and prices from <a href="{STORE}">wearmbd.com</a><span>Colors:</span><button type="button" data-theme-btn="terracotta">Terracotta</button><button type="button" data-theme-btn="sage">Sage</button></div>
 <script src="{root}assets/catalog.js"></script>
 <script src="{root}assets/site.js"></script>'''
 
